@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "544585162030",
+    "firebase_url": "https://sonaldatabase-3fbff.firebaseio.com",
+    "project_id": "sonaldatabase-3fbff",
+    "storage_bucket": "sonaldatabase-3fbff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544585162030:android:aea28b1126120cb5",
+        "android_client_info": {
+          "package_name": "sonal.firebase.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544585162030-kavgm166qh5s6r07fnusg2kfb76jqpre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCWnKzdVenMTyC4FHxtyIu7sD5dNsw9TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
